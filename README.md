@@ -24,7 +24,7 @@ Dasmoto's Arts and Crafts - Project from Codecademy
 + Git Bash
 
 ## Screenshots
-![Screenshot](./pics/example.jpg)
+![Screenshot](/pics/example.jpg)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Project Status
